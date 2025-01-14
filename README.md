@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @Mofiyin019
-- 👀 I’m interested in web development and developer operations.
-- 🌱 I’m currently learning frontend web development.
-- 💞️ I’m looking to collaborate on any frontend projects.
-- 📫 You can reach me via email at fiyinodusola@gmail.com
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm a Product Manager. 🤧
+# Hi there! 👋 I'm Mofiyin Odusola 🌟
 
-<!---
-Mofiyin019/Mofiyin019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! 🚀  
+I’m passionate about building impactful solutions and constantly learning new skills. Here's a bit about me:
+
+
+## 💻 About Me
+
+- 🌱 I’m currently learning **Web Development**.  
+- 💼 I’m a **Product Manager** with a growing interest in creating user-centric digital solutions.  
+- 🧩 I’ve started my journey with **HTML and CSS**, and I’m diving deeper into **JavaScript** and **React**.  
+- 🌍 I enjoy exploring the intersection of technology and user experience to bring innovative ideas to life.
+
+
+## 🔧 Tech Stack
+
+Here are some of the tools and technologies I’m familiar with:
+
+- **Languages:** HTML, CSS, JavaScript  
+- **Frameworks:** React  
+- **Databases:** Power BI, Excel  
+- **Other Tools:** Git  
+
+
+## 📊 GitHub Stats
+
+![Mofiyin019's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mofiyin019&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mofiyin019&layout=compact&theme=radical)
+## 📬 Let's Connect!
+
+- 📫 Email: [fiyinodusola@gmail.com](mailto:fiyinodusola@gmail.com) 
+- 💼 LinkedIn: [Mofiyinfoluwa Odusola](https://www.linkedin.com/in/fiyin-odusola/)  
+- 🌐 Portfolio: [https://mofiyin-odusola.vzy.io/]
+
+### 🌟 Fun Fact
+
+*I believe every product tells a story, and I aim to craft solutions that users love to interact with.*
